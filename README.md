@@ -92,7 +92,7 @@ Colab ->
 모델 랜덤포레스트, XGBOOST: https://colab.research.google.com/drive/1g4dHuVKoBtCY78IJcvtX26jXpW2PCnw3?usp=sharing
 
 ### ✅ Best Model & Score
-RandomForest </br>
-  * recall : 0.88
-  * F1socre : 0.5335
-  * AUCscore : 0.7013
+RandomForest with Over Sampling & SMOTE </br>
+  * recall : 0.84
+  * F1socre : 0.5264
+  * AUCscore : 0.7027
