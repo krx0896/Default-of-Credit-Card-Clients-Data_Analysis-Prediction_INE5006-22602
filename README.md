@@ -87,9 +87,10 @@ B.   결과 요약
 # Result
 ### ✅ Source Code 
 Colab -> 
-데이터 EDA: https://colab.research.google.com/drive/1clQ4RM26VdxPXZf3_y-JffM2a7eObl0N?usp=sharing
-모델 로지스틱 회귀, 나이브 베이즈: https://colab.research.google.com/drive/1KQyxloWMmdR2RPW_xaON3C4C8Py19rAh?usp=sharing
+데이터 EDA: https://colab.research.google.com/drive/1clQ4RM26VdxPXZf3_y-JffM2a7eObl0N?usp=sharing <br>
+모델 로지스틱 회귀, 나이브 베이즈: https://colab.research.google.com/drive/1KQyxloWMmdR2RPW_xaON3C4C8Py19rAh?usp=sharing <br>
 모델 랜덤포레스트, XGBOOST: https://colab.research.google.com/drive/1g4dHuVKoBtCY78IJcvtX26jXpW2PCnw3?usp=sharing
+
 ### ✅ Best Model & Score
 RandomForest </br>
   * recall : 0.88
