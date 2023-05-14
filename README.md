@@ -28,7 +28,7 @@ csv file : UCI_Credit_Card.csv : ( train + test )
   * 타겟 변수의 클래스 불균형 : Default한 사람의 비율 -> 78:22
   * 상관관계가 높은 변수들 존재
 
-# Contents 
+# Contents  
 
 1.   서론: 문제 정의
 a) 연구 배경
