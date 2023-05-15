@@ -94,5 +94,5 @@ Colab ->
 ### ✅ Best Model & Score
 RandomForest with Over Sampling & SMOTE </br>
   * recall : 0.84
-  * F1socre : 0.5264
+  * F1-score : 0.5264
   * AUCscore : 0.7027
