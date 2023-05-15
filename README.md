@@ -95,4 +95,4 @@ Colab ->
 RandomForest with Over Sampling & SMOTE </br>
   * recall : 0.84
   * F1-score : 0.5264
-  * AUCscore : 0.7027
+  * AUC-score : 0.7027
